@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @delta1024
 - 👀 I’m interested in GNU/linux, open source programs, 
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning assembly
 - 📫 How to reach me still working on that.
 
 <!---
